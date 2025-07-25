@@ -1,0 +1,7 @@
+# SAP files
+.user.project.json
+
+# General ignores
+*.log
+*.tmp
+*.swp
