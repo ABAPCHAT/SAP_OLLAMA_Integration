@@ -4,12 +4,9 @@ This repository contains the framework for integrating Large Language Models (LL
 
 ## Structure
 
+*   `connector/`: Contains the middleware application responsible for communication between the LLM and SAP.
 *   `src/`: Contains the ABAP code for the SAP Integration Layer, including RFC-enabled function modules and other necessary SAP objects.
-*   `non_abap_content/`: Contains non-ABAP related content such as the Python connector and documentation.
-
-## Getting Started
-
-Further details on setting up and using the framework will be provided in the respective subdirectories' documentation.
+*   `docs/`: Contains technical and user documentation specific to this framework.
 
 ## Contribution
 
