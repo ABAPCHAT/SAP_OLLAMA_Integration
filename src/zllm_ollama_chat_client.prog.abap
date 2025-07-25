@@ -377,4 +377,3 @@ ENDMODULE.
 MODULE user_command_0100 INPUT.
   app->handle_user_command( sy-ucomm ).
 ENDMODULE.
-
